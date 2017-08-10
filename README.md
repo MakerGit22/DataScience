@@ -5,8 +5,8 @@
 
 ### Course Information
 - Class Dates: **Mondays and Wednesdays from 7-10pm**
-- Course Duration: **(August 14th - October 23rd, 2017)**
-- Holiday(s): September 4th
+- Course Duration: **(August 14th - October 25th, 2017)**
+- Holiday(s): September 4th, October 9th
 - Course materials for [General Assembly's Data Science
 course](https://generalassemb.ly/education/data-science?where=los-angeles)
 
